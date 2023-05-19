@@ -1,2 +1,2 @@
 # Pong
-A simple pong game, made with PPlay
+A Simple Pong game made with PPlay
